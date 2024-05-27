@@ -1,0 +1,17 @@
+C:\Users\DESKTOP\source\repos\BusiaHelper\bin\Debug\net8.0\BusiaHelper.exe
+C:\Users\DESKTOP\source\repos\BusiaHelper\bin\Debug\net8.0\BusiaHelper.deps.json
+C:\Users\DESKTOP\source\repos\BusiaHelper\bin\Debug\net8.0\BusiaHelper.runtimeconfig.json
+C:\Users\DESKTOP\source\repos\BusiaHelper\bin\Debug\net8.0\BusiaHelper.dll
+C:\Users\DESKTOP\source\repos\BusiaHelper\bin\Debug\net8.0\BusiaHelper.pdb
+C:\Users\DESKTOP\source\repos\BusiaHelper\obj\Debug\net8.0\BusiaHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP\source\repos\BusiaHelper\obj\Debug\net8.0\BusiaHelper.AssemblyInfoInputs.cache
+C:\Users\DESKTOP\source\repos\BusiaHelper\obj\Debug\net8.0\BusiaHelper.AssemblyInfo.cs
+C:\Users\DESKTOP\source\repos\BusiaHelper\obj\Debug\net8.0\BusiaHelper.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\source\repos\BusiaHelper\obj\Debug\net8.0\BusiaHelper.dll
+C:\Users\DESKTOP\source\repos\BusiaHelper\obj\Debug\net8.0\refint\BusiaHelper.dll
+C:\Users\DESKTOP\source\repos\BusiaHelper\obj\Debug\net8.0\BusiaHelper.pdb
+C:\Users\DESKTOP\source\repos\BusiaHelper\obj\Debug\net8.0\BusiaHelper.genruntimeconfig.cache
+C:\Users\DESKTOP\source\repos\BusiaHelper\obj\Debug\net8.0\ref\BusiaHelper.dll
+C:\Users\DESKTOP\source\repos\BusiaHelper\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\DESKTOP\source\repos\BusiaHelper\obj\Debug\net8.0\BusiaHelper.csproj.AssemblyReference.cache
+C:\Users\DESKTOP\source\repos\BusiaHelper\obj\Debug\net8.0\BusiaHelper.csproj.CopyComplete

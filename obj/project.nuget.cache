@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bWrpojbUqkfmEt72xlSbcWnOpW89oC3nqzeVCqOgEEjq5SVXg/bJ5smIVGAOQxaEpFbd9upPNIi4o0KvonHSzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DESKTOP\\source\\repos\\BusiaHelper\\StickersHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DESKTOP\\.nuget\\packages\\sixlabors.imagesharp\\3.1.0\\sixlabors.imagesharp.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
